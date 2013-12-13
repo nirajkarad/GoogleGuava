@@ -1,4 +1,4 @@
 GoogleGuava
 ===========
 
-Sample program for Google Guava Libraries
+Sample program for Google Guava Libraries.
